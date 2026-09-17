@@ -99,7 +99,7 @@ No build tools (Maven/Gradle) or internet connections are required. The project 
 1. Open **Command Prompt** or **PowerShell**.
 2. Navigate to the project root directory:
    ```cmd
-   cd "C:\Users\abhir\OneDrive\Desktop\JAVA Vityarathi"
+   cd "C:\Users\govind\OneDrive\Desktop\JAVA Vityarathi"
    ```
 3. Create the output directory (if not already created):
    ```cmd
